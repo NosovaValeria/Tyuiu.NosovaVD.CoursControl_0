@@ -19,4 +19,4 @@ namespace UnitTest1
 			Assert::AreEqual(1, c);
 		}
 	}; 
-}
+} 
