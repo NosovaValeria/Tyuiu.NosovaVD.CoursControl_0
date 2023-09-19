@@ -14,4 +14,4 @@ class Service : public ISprint0Task8V1
 	{
 		return sqrt((12 * a + pow(a, 4)) / (pow(a, 2) + sqrt(234 + b)));
 	}
-};
+}; 

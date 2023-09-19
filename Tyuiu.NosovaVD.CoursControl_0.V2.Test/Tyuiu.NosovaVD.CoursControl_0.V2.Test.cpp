@@ -18,5 +18,5 @@ namespace UnitTest1
 			int c = service->Chislo(a, b);
 			Assert::AreEqual(1, c);
 		}
-	};
+	}; 
 }
